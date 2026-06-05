@@ -1,4 +1,4 @@
-# Lab 4 – Working with Amazon Elastic Block Store (EBS)
+# Lab 3 – Working with Amazon Elastic Block Store (EBS)
 
 ## Objective
 
